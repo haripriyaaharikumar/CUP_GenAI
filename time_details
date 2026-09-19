@@ -2,10 +2,10 @@
 Total number candiates : 5565
 
 
-When initial candidate set as 300 (Results file: Qwen2.5-3B-I_T5_300.json)
+When initial candidate set as 300 (Results file: Qwen2.5-3B-I_T5_300.json) for a single test data:
 Total Execution time: 205.208112 seconds
 
-When initial candidate set as 5000 (Results file: Qwen2.5-3B-I_T5_5000.json)
+When initial candidate set as 5000 (Results file: Qwen2.5-3B-I_T5_5000.json) for a single test data:
 Total Execution time: 344.884518 seconds
 
 
