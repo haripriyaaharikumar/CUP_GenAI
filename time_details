@@ -1,4 +1,6 @@
+Amazon Beauty dataset
 Total number of candidates available: 5565
+Models used Qwen2.5-3B and Qwen2.5-1.5B
 
 When the initial candidate set is set to 300 (Results file: Qwen2.5-3B-I_T5_300.json) for a single test data:
 Total Execution time: 205.208112 seconds
