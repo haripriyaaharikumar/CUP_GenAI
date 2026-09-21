@@ -5,7 +5,5 @@ Qwen2.5-3B-I_T5_300.json is the result for a single test data, when the initial 
 Qwen2.5-3B-I_T5_5000.json is the result for a single test data, when the initial candidate set is set to 5000.
 
 Qwen2.5-3B-I_T10_5000.json for a single test data, when the initial candidate set is set to 5000, T set to 10.
-Execution time: 459.943315 seconds
-
-Success at turn 6
+Execution time: 459.943315 seconds (Success at turn 6)
 
