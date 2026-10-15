@@ -1,3 +1,6 @@
+
+The results are reproduced based on the code shared in the paper https://arxiv.org/pdf/2604.03924
+
 # CUP_GenAI
 
 Qwen2.5-3B-I_T5_300.json is the result for a single test data, when the initial candidate set is set to 300.
